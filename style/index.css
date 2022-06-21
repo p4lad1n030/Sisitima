@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* margem para o logo  no menu */
+.hm{
+  margin-bottom: -0.5rem!important;
+
+}
+/* texto do header da section */
+.txth{
+  top: -5%;
+  left: 2%;
+}
+.txtstyle{
+  color: white;
+  text-shadow: 1px 1px 2px black;
+}
+/* tamanho da font */
+.szf {
+  font-size: 0.8em;
+}
