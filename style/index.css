@@ -13,7 +13,38 @@
   color: white;
   text-shadow: 1px 1px 2px black;
 }
-/* tamanho da font */
+/* tamanho da font paragrafo */
 .szf {
-  font-size: 0.8em;
+  font-size: 4.5vw;
+}
+/* tamanho da font titulos */
+.szft {
+  font-size: 6.5vw;
+}
+/* posicionamento dos textos do article */
+.titlepos1{
+  position: absolute;
+  top: 72px;
+  left: 37px;
+}
+.titlepos3{
+  position:absolute;
+  top: 116px;
+  left: 163px;
+}
+.btnAprender{
+  position: absolute;
+  top: 140px;
+  left: 238px;
+}
+
+@media screen and (min-width: 576px) and (orientation:landscape) {
+  .szf {
+    font-size: 2.5vw;
+  }
+  .titlepos1 {
+    position: absolute;
+    top: 33%;
+    left: 37px;
+  }
 }
