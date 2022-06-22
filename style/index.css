@@ -43,8 +43,11 @@
     font-size: 2.5vw;
   }
   .titlepos1 {
-    position: absolute;
-    top: 33%;
+    top: 10px;
     left: 37px;
+  }
+  .titlepos3{
+    top: 90px;
+    left: 163px;
   }
 }
