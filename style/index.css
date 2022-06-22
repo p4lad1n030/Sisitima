@@ -25,12 +25,12 @@
 
 .posicaot1 {
   position: absolute;
-  top: 19%;
+  top: 23%;
   left: 10%;
 }
 .titlepos3{
   position:absolute;
-  top: 116px;
+  top: 30%;
   left: 163px;
 }
 .btnAprender{
@@ -39,7 +39,7 @@
   left: 238px;
 }
 
-@media screen and (min-width: 576px)  {
+@media screen and (min-width: 576px) and (max-width: 767px) {
   /* .szft {
     font-size: 6.5vw;
   } */
